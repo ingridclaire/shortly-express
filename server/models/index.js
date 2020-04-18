@@ -2,3 +2,5 @@ module.exports.Links = require('./link');
 module.exports.Clicks = require('./click');
 module.exports.Sessions = require('./session');
 module.exports.Users = require('./user');
+
+//model.js is not here; every other file from models dir is here
